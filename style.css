@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 0;
+    height: 100vh;
+    background-color: rgb(235, 227, 225);
+    color: rgb(149, 16, 16);
+}
+h1{
+    background-color: azure;
+    color: rgb(19, 19, 5);
+}
+h2{
+    background-color: blue;
+    color: rgb(16, 14, 13);
+}
+div{
+    max-width: 600px;
+}
